@@ -23,5 +23,5 @@ random spawn (Balken müssen unterschiedlich erscheinen)
 aktueller Stand: Idee, Konzept
 
 <div>
-<img src="./DodgeBall_chollweger/Screenshots/WhatsApp Image 2019-01-08 at 09.16.22-2.jpeg" width="250">
+<img src="./Screenshots/WhatsApp Image 2019-01-08 at 09.16.22-2.jpeg" width="250">
 </div>
